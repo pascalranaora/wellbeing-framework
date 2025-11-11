@@ -1,8 +1,7 @@
 ---
 
-# **The Wellbeing Framework**  
-### *From Human Flourishing to Planetary Survival*  
-**Pascal Ranaora** | @MadaGasBit | November 11, 2025 03:04 PM PST
+# **The Wellbeing Framework**
+### *From Human Flourishing to Planetary Survival*
 
 ---
 
