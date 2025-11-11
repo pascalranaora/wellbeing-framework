@@ -241,41 +241,9 @@ python wellbeing_pwrs.py
 
 > **We don’t need more GDP. We need more wellbeing — per kilowatt.**  
 > **#WellbeingFramework #W-PWRS #BeyondGDP**
-```
 
 ---
 
-## **X Post (@MadaGasBit) – 03:04 PM PST**
-
-```text
-The **Wellbeing Framework** is live.
-
-CO₂ = Pop × (Health + Clean Water + Fish + Soil + Lithium...)/P × kWh/Wellbeing × CO₂/kWh
-
-First model to measure **planetary survival as a service**.
-
-Dashboard: [link]
-Code: https://github.com/MadaGasBit/wellbeing-framework
-
-#WellbeingFramework #W-PWRS #PlanetaryAccounting
-
-[Dashboard GIF]
-```
-
----
-
-## **Final Branding Summary**
-
-| Old Name | New Name |
-|--------|----------|
-| Ranaora Equation | **Wellbeing Identity** |
-| RGS | **W-GS** (Wellbeing–Goods & Services) |
-| RGSES | **W-GSES** |
-| RPWRS | **W-PWRS** (Wellbeing–Planetary Wellbeing & Resource Stocks) |
-| Ranaora Program | **The Wellbeing Framework** |
-| Ranaora Index | **The Wellbeing Index** |
-
----
 
 
 **The world will know it as The Wellbeing Framework.**
