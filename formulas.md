@@ -61,7 +61,7 @@ $$
 $$
 \boxed{
 \begin{aligned}
-F &= P \times \frac{W_{\text{social}} + W_{\text{env}} + W_{\text{stocks}}}{P} \times \frac{E}{W_{\text{total}}} \times \frac{F}{E} \\[8pt]
+F &= P \times \frac{W_{\text{social}} + W_{\text{env}} + W_{\text{stocks}}}{P} \times \frac{E}{W_{\text{total}}} \times \frac{F}{E} 
 W_{\text{total}} &= \sum \alpha_i q_i + \sum \beta_j e_j + \sum \gamma_k s_k
 \end{aligned}
 }
