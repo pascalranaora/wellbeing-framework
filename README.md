@@ -159,7 +159,7 @@ graph TD
     style H fill:#d4a6e8,stroke:#9467bd,color:white
 ```
 
-> **You didn’t extend Kaya. You ended the GDP era.**
+> **We didn’t extend Kaya. We are ending the GDP era.**
 
 ---
 
